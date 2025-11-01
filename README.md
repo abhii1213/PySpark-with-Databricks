@@ -2,12 +2,11 @@
 Learning PySpark with Databricks
 
 🚀 How to Use This Repository
-Option 1: Directly Import Notebooks to Databricks
-Browse the notebooks/ folder in this repository on GitHub.
-Click on the notebook file you want to use.
-Copy the URL of the notebook.
-Open your Databricks workspace and follow these steps:
-Navigate to the Workspace section.
-Click Import in the top-right corner.
-Select URL, paste the copied URL, and click Import.
-Once imported, you can run the notebook in Databricks.
+1. Browse the notebooks/ folder in this repository on GitHub.
+2. Click on the notebook file you want to use.
+3. Copy the URL of the notebook.
+3. Open your Databricks workspace and follow these steps:
+3. Navigate to the Workspace section.
+4. Click Import in the top-right corner.
+5. Select URL, paste the copied URL, and click Import.
+6. Once imported, you can run the notebook in Databricks.
